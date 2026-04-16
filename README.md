@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="GENOTRIX.jpeg" width="300"/>
+</p>
 # rbcL Phylogenetic Analysis — Lamiaceae
 
 ## Overview

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GENOTRIXO.png"
+  <img src="GENOTRIXY.png"
 " width="300"/>
 </p>
 # rbcL Phylogenetic Analysis — Lamiaceae

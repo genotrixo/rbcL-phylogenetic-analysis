@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="GENOTRIXY.png"
-" width="300"/>
-</p>
-# rbcL Phylogenetic Analysis — Lamiaceae
+  <img src="GENOTRIXY.png" width="100%" />
+</p># rbcL Phylogenetic Analysis — Lamiaceae
 
 ## Overview
 This repository contains the R code for constructing a circular phylogenetic tree based on the **rbcL** gene sequences of selected Lamiaceae species.

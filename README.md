@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GENOTRIXY.png" width="100%" />
+  <img src="My_High_Quality_Plot.png" width="100%" />
 </p># rbcL Phylogenetic Analysis — Lamiaceae
 
 ## Overview
